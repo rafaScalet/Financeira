@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\Financeira1.exe
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\Financeira1.deps.json
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\Financeira1.runtimeconfig.json
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\Financeira1.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\Financeira1.dll
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\ref\Financeira1.dll
+C:\Users\aluno\source\repos\Financeira1\bin\Debug\net5.0\Financeira1.pdb
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.dll
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\ref\Financeira1.dll
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.pdb
+C:\Users\aluno\source\repos\Financeira1\obj\Debug\net5.0\Financeira1.genruntimeconfig.cache
